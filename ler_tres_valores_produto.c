@@ -9,5 +9,4 @@ int main(){
     scanf("%d,%d,%d", &a,&b,&   c);
     int produto = a*b*c;
     printf("O resultado é:%d\n", produto);
-    return 0;
 }
